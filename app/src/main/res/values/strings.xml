@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MyFragment2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="fruits">
+        <item>mango</item>
+        <item>banana</item>
+        <item>apple</item>
+        <item>jackFruit</item>
+        <item>orange</item>
+        <item>guava</item>
+        <item>grape</item>
+        <item>pear</item>
+        <item>pineapple</item>
+        <item>watermelon</item>
+        <item>mango</item>
+        <item>banana</item>
+        <item>apple</item>
+        <item>jackFruit</item>
+        <item>orange</item>
+        <item>guava</item>
+        <item>grape</item>
+        <item>pear</item>
+        <item>pineapple</item>
+        <item>watermelon</item>
+    </string-array>
+</resources>
